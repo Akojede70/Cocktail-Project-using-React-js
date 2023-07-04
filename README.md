@@ -1,15 +1,4 @@
-#### React Router Fix
+Created an immersive online store for wine and beverage sales, showcasing drink details and prices for an exceptional customer experience. 
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+### The Deployed Link: https://react-vite-projects-17-cocktails.netlify.app/
